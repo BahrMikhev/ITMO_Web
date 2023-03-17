@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+
+<user id="0">
+  <name>Test User 1</name>
+  <city>Москва</city>
+  <birth>2023.02.15</birth>
+</user>
+<user id="1">
+  <name>Test User 2</name>
+  <city>Санкт-Петербург</city>
+  <birth>2023.02.16</birth>
+</user>
+<user id="2">
+  <name>Test User 3</name>
+  <city>Екатеринбург</city>
+  <birth>2023.02.17</birth>
+</user>
+
+</users>
